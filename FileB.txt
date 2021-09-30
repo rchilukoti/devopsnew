@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 "This is FileB.txt - new version" 
 
+=======
+"This is FileB - Github Version1"  
+>>>>>>> 9c733eecc1fcd3e30df822faaaf5504def822999
